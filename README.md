@@ -1,5 +1,5 @@
 
-# Winning PHP test
+# PHP test
 
 Simple PHP REST API application based on Laravel framework.
 
