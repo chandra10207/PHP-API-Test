@@ -14,7 +14,7 @@ Xampp --- Extract to htdocs folder
 
 You will see winningtest folder on those directory.
 
-Now Run your server and goto localhost/winningtest. Change your localdost port accordingly if needed.
+Now Run your server and goto localhost/winningtest. Change your localhost port accordingly if needed.
 
 You will see the page with heading "Winning Test". Now you were good to go.
 
