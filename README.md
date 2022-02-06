@@ -1,5 +1,5 @@
 
-# PHP test
+# PHP API Test
 
 Simple PHP REST API application based on Laravel framework.
 
