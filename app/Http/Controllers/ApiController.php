@@ -47,7 +47,6 @@ class ApiController extends Controller
         Storage::disk('public')->put('/products/'.( $product->id ) .'.json', $product_json);
         return response()->json([
             "product_id" => $product->id,
-            'asset ulr' => asset('/'),
             "static_url" => url('/assets/products/'.( $product_count+1 ) .'.json')
         ], 201);
     }
