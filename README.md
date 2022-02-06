@@ -23,7 +23,7 @@ Your Base URL be like:
 
 http://localhost/winningtest/
 
-No need to Authenticate to tets API request.
+No need to Authenticate to make API request.
 
  --- 
 
