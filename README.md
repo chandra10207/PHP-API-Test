@@ -14,7 +14,7 @@ Xampp --- Extract to htdocs folder
 
 You will see winningtest folder on those directory.
 
-Now Run your server and goto localhost/winningtest. Change your localhost port accordingly if needed.
+Now run your server and goto localhost/winningtest. Change your localhost port accordingly if needed.
 
 You will see the page with heading "Winning Test". Now you were good to go.
 
@@ -22,6 +22,8 @@ You will see the page with heading "Winning Test". Now you were good to go.
 Your Base URL be like:
 
 http://localhost/winningtest/
+
+No need to Authenticate to tets API request.
 
  --- 
 
