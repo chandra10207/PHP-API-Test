@@ -19,7 +19,7 @@ Now Run your server and goto localhost/winningtest. Change your localhost port a
 You will see the page with heading "Winning Test". Now you were good to go.
 
 
-Your Base URL be:
+Your Base URL be like:
 
 http://localhost/winningtest/
 
@@ -54,11 +54,11 @@ Endpoint:
 
 ```
 
-Test Data:
+Test Product Data Endpoint:
 
-http://localhost/winningtest/assets/products/1.json
+/assets/products/1.json
 
-http://localhost/winningtest/assets/products/2.json
+/assets/products/2.json
 
 
 ## Get All Products
