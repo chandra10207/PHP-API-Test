@@ -4,7 +4,7 @@
 Simple PHP REST API application based on Laravel framework.
 
 
-##Installation
+## Installation
 
 Extract Zipped file on you favourite local server directory:
 
