@@ -11,6 +11,7 @@ class ApiController extends Controller
         $all_products_path = public_path() . "/assets/products/all_products.json";
         $all_products = $all_products = file_get_contents($all_products_path);
         $product_json = json_decode($all_products);
+        // New line added from release
         return response($product_json, 200);
     }
 
